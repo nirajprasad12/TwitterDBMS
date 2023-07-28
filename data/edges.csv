@@ -1,0 +1,21 @@
+_from,_to,type
+nodes/PL,"nodes/Lagos, Nigeria",used_in
+nodes/PL,"nodes/Lagos, Nigeria",used_in
+nodes/PL,"nodes/Lagos, Nigeria",used_in
+nodes/PL,"nodes/Lagos, Nigeria",used_in
+nodes/PL,"nodes/Lagos, Nigeria",used_in
+nodes/LIVARS,"nodes/Enugu, Nigeria",used_in
+nodes/LIVARS,"nodes/Brentwood, East",used_in
+nodes/LIVARS,"nodes/Rivers, Nigeria",used_in
+nodes/LIVARS,"nodes/Rivers, Nigeria",used_in
+nodes/LIVARS,"nodes/Croydon, London",used_in
+nodes/LIVARS,"nodes/London, England",used_in
+nodes/arsenaltickets,"nodes/London, England",used_in
+nodes/arsenaltickets,"nodes/London, England",used_in
+nodes/afc,"nodes/Mutithi, Kenya",used_in
+nodes/afc,"nodes/Mutithi, Kenya",used_in
+nodes/EPL,"nodes/Abuja, Nigeria",used_in
+nodes/EPL,"nodes/Abuja, Nigeria",used_in
+nodes/EPL,"nodes/Abuja, Nigeria",used_in
+nodes/EPL,"nodes/Abuja, Nigeria",used_in
+nodes/arsenaltickets,nodes/1974,used_in
